@@ -9,6 +9,8 @@
     <title>Countdown Timer</title>
 </head>
 
+<!-- comment is applied for pull request testing 2 -->
+
 <!-- comment is applied for pull request testing -->
 
 <body>
