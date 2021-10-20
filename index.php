@@ -13,6 +13,8 @@
 
 <!-- comment is applied for pull request testing -->
 
+<!-- practice stashing -->
+
 <body>
     <h1>Countdown Event Timer</h1>
     <div class="initial-input-container">
