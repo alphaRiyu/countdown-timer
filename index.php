@@ -9,6 +9,8 @@
     <title>Countdown Timer</title>
 </head>
 
+<!-- comment is applied for pull request testing -->
+
 <body>
     <h1>Countdown Event Timer</h1>
     <div class="initial-input-container">
